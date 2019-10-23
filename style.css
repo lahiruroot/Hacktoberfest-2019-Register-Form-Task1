@@ -24,7 +24,7 @@ body {
 	position: relative;
 }
 #msform fieldset {
-	background: white;
+	background:#ffb3b3;
 	border: 0 none;
 	border-radius: 3px;
 	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
@@ -57,7 +57,7 @@ body {
 	width: 100px;
 	background: #27AE60;
 	font-weight: bold;
-	color: white;
+	color:  #3366ff;
 	border: 0 none;
 	border-radius: 1px;
 	cursor: pointer;
